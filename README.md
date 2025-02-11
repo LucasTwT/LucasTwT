@@ -4,7 +4,7 @@
 👋 Hi there! I'm currently studying my first year of the DAM (Development of Multiplatform Applications) program. I love collaborating in teams and continuously improving my coding skills.<br><br>🔹 I'm learning Java, MySQL, and Python<br>🔹 Exploring Deep Learning with PyTorch<br><br>Always open to new challenges and eager to contribute to exciting projects! 🚀
 
 
-## 🌐 Socials:
+## 🌐 Contact Email:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucastwt26@gmail.com) 
 
 # 💻 Tech Stack:
@@ -19,7 +19,4 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LucasTwT&limit=5&theme=default&combine_all_yearly_contributions=true)
 
